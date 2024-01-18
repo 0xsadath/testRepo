@@ -1,3 +1,3 @@
 
-console.log(`remote feature override`)
+console.log(`full main override`)
 
